@@ -1,0 +1,38 @@
+#red {
+    background-color: #eb8686;
+    
+}
+
+#white {
+    background-color: #d6d0aa;
+}
+
+#inputType{
+    color: #495057;
+    padding-bottom: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+label{
+    color: #495057;
+}
+
+#calcButton {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+#calcButton {
+    background-color: #348c4b
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+.referenceInfo {
+    
+}
